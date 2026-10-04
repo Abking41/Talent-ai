@@ -1,0 +1,6 @@
+{
+  "name": "TalentMatch AI — Intelligent Resume & Job Fit Evaluation Platform",
+  "description": "AI & ML resume analysis, candidate ranking, explainable match scoring, and contradiction & keyword-stuffing detection engine for recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
